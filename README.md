@@ -8,4 +8,4 @@ The different versions are:
 * Backtracking search + AC3
 * Backtracking search + Most Constrained Variable + AC3
 * Backtracking search + Most Constrained Variable + AC3 + Tie Breaker
-* Backtracking search + Most Constrained Variable + AC3 + Tie Breaker with a variation that runs AC3 only ever 10 iterations. (fastest)
+* Backtracking search + Most Constrained Variable + AC3 + Tie Breaker with a variation that runs AC3 only every 10 iterations. (fastest)
